@@ -56,16 +56,6 @@ https://youtu.be/SVoz6Fq_lho?si=rDxKoOWLVt0BJt97
 
 ---
 
-## 📂 Project Structure
-Online-Shop/
-│── main.c
-│── functions.c
-│── header.h
-│── data.txt
-│── README.md
-
----
-
 ## 🎯 Learning Outcomes
 - Understanding of C programming fundamentals  
 - Real-world project structure  
